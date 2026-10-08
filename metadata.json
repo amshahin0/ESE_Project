@@ -1,0 +1,6 @@
+{
+  "name": "OptiFactory ERP - Manufacturing Operations & OEE Platform",
+  "description": "Enterprise Manufacturing ERP & Factory Operations Dashboard for multi-factory scheduling, OEE tracking, downtime analysis, maintenance, BOM, quality, and inventory control with bilingual English and Arabic RTL support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
